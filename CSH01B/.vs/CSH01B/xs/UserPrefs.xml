@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E76B25A3-0AD3-420F-AD3F-E93F743D291D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lektion1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testen1/Program.cs">
+    <Files>
+      <File FileName="CSH01B/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion1/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion2/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion3/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion2Typen/Program.cs" Line="1" Column="1" />
+      <File FileName="Testen/Program.cs" Line="1" Column="1" />
+      <File FileName="Testen1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSH01B" expanded="True">
+            <Node name="CSH01B" expanded="True" />
+            <Node name="Lektion1" expanded="True" />
+            <Node name="Lektion2" expanded="True" />
+            <Node name="Lektion2Typen" expanded="True" />
+            <Node name="Lektion3" expanded="True" />
+            <Node name="Testen" expanded="True" />
+            <Node name="Testen1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lektion2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lektion3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSH01B PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lektion2Typen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Testen1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Testen PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

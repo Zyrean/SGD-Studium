@@ -1,0 +1,5 @@
+/Users/stephanwinzer/Projects/CSH01B/Lektion2/obj/anycpu/Debug/Lektion2.csproj.CoreCompileInputs.cache
+/Users/stephanwinzer/Projects/CSH01B/Lektion2/bin/Debug/Lektion2.exe
+/Users/stephanwinzer/Projects/CSH01B/Lektion2/bin/Debug/Lektion2.pdb
+/Users/stephanwinzer/Projects/CSH01B/Lektion2/obj/anycpu/Debug/Lektion2.exe
+/Users/stephanwinzer/Projects/CSH01B/Lektion2/obj/anycpu/Debug/Lektion2.pdb

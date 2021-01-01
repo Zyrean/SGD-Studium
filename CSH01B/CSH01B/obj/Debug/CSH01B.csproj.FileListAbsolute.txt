@@ -1,0 +1,6 @@
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/obj/Debug/CSH01B.csprojAssemblyReference.cache
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/obj/Debug/CSH01B.csproj.CoreCompileInputs.cache
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/bin/Debug/CSH01B.exe
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/bin/Debug/CSH01B.pdb
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/obj/Debug/CSH01B.exe
+/Users/stephanwinzer/Projects/CSH01B/CSH01B/obj/Debug/CSH01B.pdb

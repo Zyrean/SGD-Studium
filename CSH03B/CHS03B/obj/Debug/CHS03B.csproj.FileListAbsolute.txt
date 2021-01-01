@@ -1,0 +1,6 @@
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/bin/Debug/CHS03B.exe
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/bin/Debug/CHS03B.pdb
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/obj/Debug/CHS03B.csprojAssemblyReference.cache
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/obj/Debug/CHS03B.csproj.CoreCompileInputs.cache
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/obj/Debug/CHS03B.exe
+/Users/stephanwinzer/Projects/Studium/CSH03B/CHS03B/obj/Debug/CHS03B.pdb

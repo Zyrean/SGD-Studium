@@ -1,0 +1,5 @@
+/Users/stephanwinzer/Projects/Studium/CSH03B/DelegateBeispiel/bin/Debug/DelegateBeispiel.exe
+/Users/stephanwinzer/Projects/Studium/CSH03B/DelegateBeispiel/bin/Debug/DelegateBeispiel.pdb
+/Users/stephanwinzer/Projects/Studium/CSH03B/DelegateBeispiel/obj/anycpu/Debug/DelegateBeispiel.csproj.CoreCompileInputs.cache
+/Users/stephanwinzer/Projects/Studium/CSH03B/DelegateBeispiel/obj/anycpu/Debug/DelegateBeispiel.exe
+/Users/stephanwinzer/Projects/Studium/CSH03B/DelegateBeispiel/obj/anycpu/Debug/DelegateBeispiel.pdb

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{3E9E61CE-4160-4DE6-B89F-AE5E8FC87A5B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lektion1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lektion4/Program.cs">
+    <Files>
+      <File FileName="Einsendeaufgaben/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion1/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion2/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion3/Program.cs" Line="1" Column="1" />
+      <File FileName="Lektion4/Program.cs" Line="79" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSH02" expanded="True">
+            <Node name="Einsendeaufgaben" expanded="True" />
+            <Node name="Lektion1" expanded="True" />
+            <Node name="Lektion2" expanded="True" />
+            <Node name="Lektion3" expanded="True" />
+            <Node name="Lektion4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Testen" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lektion2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lektion3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Einsendeaufgaben PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lektion4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Testen PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

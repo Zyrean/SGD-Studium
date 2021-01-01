@@ -1,0 +1,5 @@
+/Users/stephanwinzer/Projects/CSH02/Testen/bin/Debug/Testen.exe
+/Users/stephanwinzer/Projects/CSH02/Testen/bin/Debug/Testen.pdb
+/Users/stephanwinzer/Projects/CSH02/Testen/obj/anycpu/Debug/Testen.csproj.CoreCompileInputs.cache
+/Users/stephanwinzer/Projects/CSH02/Testen/obj/anycpu/Debug/Testen.exe
+/Users/stephanwinzer/Projects/CSH02/Testen/obj/anycpu/Debug/Testen.pdb
